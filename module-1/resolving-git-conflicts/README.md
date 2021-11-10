@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Resolving Git Conflicts (vamos poco a poco)
+# Lab | Resolving Git Conflicts (primer lab terminado)
 
 ## Introduction
 
